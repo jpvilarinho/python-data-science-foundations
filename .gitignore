@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente / segredos
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários
+*.log
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Modelos / dados grandes
+*.pkl
+*.joblib
+*.h5
+
+# SQLite
+*.db
